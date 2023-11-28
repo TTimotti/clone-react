@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://TTimotti.github.io/clone-react"
+  "homepage": "https://TTimotti.github.io/clone-react",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
 }
