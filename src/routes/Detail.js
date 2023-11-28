@@ -10,9 +10,6 @@ function Detail() {
         setMovie(json.data.movie);
     }
 
-    console.log(movie);
-    console.log(id);
-
     useEffect(() => {
         getMovie();
     }, []);

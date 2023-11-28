@@ -18,8 +18,6 @@ function Home() {
         getMovies();
     }, []);
 
-    console.log(movies);
-
     return (
         <div>{ loading ? (
             <h1>Loading...</h1>
