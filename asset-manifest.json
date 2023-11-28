@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/clone-react/static/js/main.e3c8e183.js",
+    "main.js": "/clone-react/static/js/main.5e4ca7c6.js",
     "index.html": "/clone-react/index.html",
-    "main.e3c8e183.js.map": "/clone-react/static/js/main.e3c8e183.js.map"
+    "main.5e4ca7c6.js.map": "/clone-react/static/js/main.5e4ca7c6.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3c8e183.js"
+    "static/js/main.5e4ca7c6.js"
   ]
 }
